@@ -1,0 +1,8 @@
+#!/bin/sh
+make lint
+
+if [ $? -eq 0 ]; then
+    git add .
+else
+    exit 1
+fi

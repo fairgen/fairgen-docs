@@ -1,0 +1,1 @@
+[OAD(https://app.fairgen.ai/api/v1/openapi.json)]

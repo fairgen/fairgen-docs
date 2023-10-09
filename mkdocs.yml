@@ -1,0 +1,57 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+
+site_name: ""
+theme:
+  # General config
+  name: material
+  logo: assets/logo.svg
+
+  # Styling
+  font:
+    text: Poppins
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+  # Extra features
+  features:
+    - navigation.tabs
+    - navigation.footer
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.sections
+    - navigation.top
+
+# Footer config
+copyright: Copyright &copy; 2023 Fairgen, all rights reserved
+extra:
+  generator: false
+
+# Custom CSS
+extra_css:
+  - assets/stylesheets/extra.css
+  - assets/stylesheets/neoteroi-mkdocs.css
+
+plugins:
+  - search
+  - awesome-pages
+  - blog
+  - neoteroi.mkdocsoad:
+      use_pymdownx: true
+
+markdown_extensions:
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
