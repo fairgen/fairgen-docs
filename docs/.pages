@@ -1,5 +1,9 @@
 nav:
-  - index.md
+  - Getting started:
+    - Welcome to Fairgen: index.md
+    - Quickstart: quickstart.md
+    - Examples: examples
+    - FAQ: faq
   - basics
   - API Docs: swagger
-  - ...
+  - blog

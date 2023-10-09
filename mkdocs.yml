@@ -5,6 +5,7 @@ theme:
   # General config
   name: material
   logo: assets/logo.svg
+  favicon: assets/favicon.png
 
   # Styling
   font:
@@ -32,6 +33,7 @@ theme:
     - navigation.instant.prefetch
     - navigation.sections
     - navigation.top
+    - navigation.expand
 
 # Footer config
 copyright: Copyright &copy; 2023 Fairgen, all rights reserved
