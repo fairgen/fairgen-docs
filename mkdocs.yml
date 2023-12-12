@@ -46,6 +46,7 @@ extra_css:
   - assets/stylesheets/neoteroi-mkdocs.css
 
 plugins:
+  - mkdocs-video
   - search
   - awesome-pages
   - blog

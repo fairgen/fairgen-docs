@@ -1,7 +1,11 @@
 nav:
   - Getting started:
-    - Welcome to Fairgen: index.md
-    - Quickstart: quickstart.md
+    - Onboarding: onboarding.md
+    - Dataset: dataset.md
+    - Fairset: fairset.md
+    - Report: report.md
+    - Backtest: backtest.md
+    - Settings: settings.md
     - Examples: examples
     - FAQ: faq
   - basics
