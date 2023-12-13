@@ -1,9 +1,9 @@
 nav:
   - Getting started:
     - Onboarding: index.md
-    - Create a Fairset: create_fairset.md
-    - Manage your organisation: manage_org.md
-    - Validate Fairgen’s technology: validate.md
+    - Create a Fairset: basics/fairset
+    - Manage your organisation: basics/organizations
+    - Validate Fairgen’s technology: basics/backtest
     - Examples: examples
     - FAQ: faq
   - basics

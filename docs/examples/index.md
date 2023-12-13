@@ -1,3 +1,3 @@
 # Niche Augmentation
 
-Coming soon...
+Check out the [fairset page](/basics/fairset/)

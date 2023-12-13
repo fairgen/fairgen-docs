@@ -1,3 +1,0 @@
-# Manage your organization 
-
-Coming soon...
