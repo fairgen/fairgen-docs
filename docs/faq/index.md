@@ -1,4 +1,4 @@
-# How do i sign up?
+# How do I sign up?
 
 Currently, [Early Access](https://www.fairgen.ai/apply-for-early-access) is exclusive to a a select group of large market research
 & insights institutions.
