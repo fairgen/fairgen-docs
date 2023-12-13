@@ -12,3 +12,5 @@
 
 **Tutorial**
 ![type:video](https://fairgen-app-static.s3.amazonaws.com/docs/documentation-videos/fairsets.mp4)
+
+**Explanation**
