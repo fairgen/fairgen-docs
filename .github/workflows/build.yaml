@@ -23,4 +23,4 @@ jobs:
             mkdocs-material-
       - run: pip install -r requirements.txt
 
-      - run: echo 'docs.fairgen.ai' > ./build/CNAME && mkdocs gh-deploy --force
+      - run: mkdocs gh-deploy --force
