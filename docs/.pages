@@ -1,11 +1,9 @@
 nav:
   - Getting started:
     - Onboarding: index.md
-    - Dataset: dataset.md
-    - Fairset: fairset.md
-    - Report: report.md
-    - Backtest: backtest.md
-    - Settings: settings.md
+    - Create a Fairset: create_fairset.md
+    - Manage your organisation: manage_org.md
+    - Validate Fairgen’s technology: validate.md
     - Examples: examples
     - FAQ: faq
   - basics

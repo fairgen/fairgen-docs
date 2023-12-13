@@ -1,4 +1,6 @@
-# Organizations
+# Organization
+
+![type:video](https://fairgen-app-static.s3.amazonaws.com/docs/documentation-videos/settings.mp4)
 
 In Fairgen, an organization serves as the foundational structure where a 
 single client's operations are managed. Think of it as the top-level container

@@ -1,4 +1,6 @@
 nav:
   - organizations.md
-  - projects.md
-  - connectors.md
+  - dataset.md
+  - fairset.md
+  - report.md
+  - backtest.md
