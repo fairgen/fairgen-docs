@@ -1,6 +1,6 @@
 nav:
   - Getting started:
-    - Onboarding: onboarding.md
+    - Onboarding: index.md
     - Dataset: dataset.md
     - Fairset: fairset.md
     - Report: report.md
