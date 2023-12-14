@@ -1474,7 +1474,7 @@
 }
 
 .span-table tr:first-child td {
-  font-weight: 700;
+  font-weight: 500;
   min-width: 5rem;
   padding: 0.9375em 1.25em;
   vertical-align: top;

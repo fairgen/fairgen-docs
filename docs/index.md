@@ -1,4 +1,4 @@
-# First steps
+# Onboarding
 
 **Summary**
 <br /> The following video will guide you through the onboarding process of the Fairgen platform.
