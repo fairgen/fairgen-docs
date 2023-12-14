@@ -1,11 +1,12 @@
 nav:
   - Getting started:
-    - Onboarding: index.md
-    - Create a Fairset: basics/fairset
-    - Manage your organisation: basics/organizations
-    - Validate Fairgen’s technology: basics/backtest
+    - First steps: index.md
+    - Manage your organisation: organizations.md
+    - Upload a Dataset: dataset.md
+    - Create a Fairset: fairset.md
+    - Compare a Fairset: report.md
+    - Validate our technology: backtest.md
     - Examples: examples
     - FAQ: faq
-  - basics
   - API Docs: swagger
   - blog
