@@ -5,7 +5,7 @@ nav:
     - Upload a Dataset: dataset.md
     - Create a Fairset: fairset.md
     - Compare a Fairset: report.md
-    - Validate our technology: backtest.md
+    - Technical Validations: technical_validation
     - Examples: examples
     - FAQ: faq
   - API Docs: swagger

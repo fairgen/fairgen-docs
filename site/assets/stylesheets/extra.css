@@ -1,0 +1,20 @@
+:root {
+  --md-primary-fg-color:        #1D252C;
+  --md-primary-fg-color--light: #A8FF35;
+  --md-primary-fg-color--dark:  #90030C;
+}
+
+
+p img{
+  border: 4px solid #f8f8fa;
+}
+
+.md-nav__link:hover {
+    color: var(--md-primary-fg-color--light) !important;
+}
+
+.md-nav__link--active {
+    color: var(--md-primary-fg-color--light) !important;
+}
+
+
